@@ -1,8 +1,8 @@
-# streamlit 라이브러리 불러오기
+# streamlit 라이브러리 불러오1기
 import streamlit as st      
 
 # 제목 쓰기
-st.title('동생아 _________')  
+st.title('동생아 수학 공부하자!')  
 # 부제목 쓰기
 st.subheader('오늘의 주제: _______')
 # 본문 쓰기
